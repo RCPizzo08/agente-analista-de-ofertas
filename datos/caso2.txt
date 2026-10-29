@@ -1,0 +1,35 @@
+=== (A) COMPRA ===
+Compra de 60 bridas de cuello para soldar (weld neck), 12 pulgadas, clase 300, acero al carbono forjado.
+Destino: almacén central de la Planta de Proceso Valle Seco (ficticia).
+Fecha límite de entrega: 30/12/2026.
+Fecha de referencia (hoy): 26/10/2026. El plazo de entrega se cuenta desde la emisión de la orden de compra, prevista ese mismo día.
+Tipo de cambio de referencia (ficticio): ARS 1.000 por USD. Alícuota de IVA a considerar: 21 %.
+Comparar en pesos argentinos (ARS), sin IVA.
+
+=== (B) REQUISITOS ===
+EXCLUYENTES:
+E1. Brida de cuello para soldar, 12", clase 300, acero al carbono forjado.
+E2. Fabricación según la Norma de Fabricación NFB-300 (norma ficticia).
+E3. Certificado de material del lote (certificado de colada).
+E4. Entrega a más tardar el 30/12/2026.
+DESEABLES:
+D1. Ensayo no destructivo adicional por lote.
+D2. Pago a 45 días o más.
+
+=== (C) OFERTAS ===
+--- OFERTA A ---
+Proveedor Delta (ficticio) - presupuesto DE-5520 (ficticio)
+Brida forjada acero al carbono, 12" clase 300, cuello p/ soldar, fabricada según NFB-300. 60 unidades a USD 118 c/u + IVA = USD 7.080 + IVA.
+Certificado de colada por lote. Ensayo no destructivo adicional incluido sin cargo.
+Entrega: 40 días corridos desde la OC. Pago a 45 días de factura. Garantía 12 meses. Válido hasta el 10/11/2026.
+
+--- OFERTA B ---
+Proveedor Épsilon (ficticio) - cotización EP-0933 (ficticia)
+Bridas forjadas de acero al carbono, 12" clase 300, cuello soldar. Calidad de fabricación garantizada, cumple los estándares de la industria.
+ARS 133.100 c/u IVA incluido. 60 unidades = ARS 7.986.000 IVA incluido. Con certificado de colada del lote.
+Entrega 35 días corridos desde la OC. Pago 30 días de factura. Garantía 12 meses. Vigencia hasta el 15/11/2026.
+
+--- OFERTA C ---
+Proveedor Zeta (ficticio) - propuesta ZE-0071 (ficticia)
+Brida cuello soldar 12" cl. 300 acero carbono forjado, fabricación según NFB-300. ARS 122.000 por unidad + IVA. Total ARS 7.320.000 + IVA (60 u.).
+Certificado de colada del lote incluido. Entrega 45 días corridos desde OC. Pago a 30 días de factura. Garantía 12 meses. Validez hasta el 08/11/2026.

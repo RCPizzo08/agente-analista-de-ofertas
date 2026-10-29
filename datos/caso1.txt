@@ -1,0 +1,35 @@
+=== (A) COMPRA ===
+Compra de caño de acero al carbono, 1.200 metros, ASTM A283 Gr. C, diámetro 914,40 mm, espesor MÍNIMO de pared 7,92 mm (sin tolerancia negativa).
+Destino: playa de acopio Km 0, Obra Gasoducto Tramo Piedra Azul (ficticia).
+Fecha límite de entrega en destino: 15/12/2026.
+Fecha de referencia (hoy): 26/10/2026. El plazo de entrega se cuenta desde la emisión de la orden de compra, prevista ese mismo día.
+Comparar en USD, sin IVA. Todas las ofertas cotizan "más IVA".
+
+=== (B) REQUISITOS ===
+EXCLUYENTES:
+E1. Material ASTM A283 Gr. C y diámetro 914,40 mm.
+E2. Espesor mínimo de pared 7,92 mm.
+E3. Certificado de material del lote (certificado de colada) con la entrega.
+E4. Entrega en destino a más tardar el 15/12/2026.
+DESEABLES:
+D1. Garantía de 12 meses o más.
+D2. Pago a 60 días o más desde la factura.
+
+=== (C) OFERTAS ===
+--- OFERTA A ---
+Proveedor Alfa (ficticio) - Cotización AL-0141 (ficticia) - fecha 23/10/2026
+Cañería ASTM A283 Gr. C, diámetro 914,40 mm, espesor mínimo de pared 7,14 mm. 1.200 m a USD 400 el metro, más IVA. Total USD 480.000 + IVA.
+Entrega en playa de acopio Km 0 en 42 días corridos desde la OC. Pago a 30 días de factura. Garantía 12 meses.
+Se entrega certificado de colada de cada lote. Oferta válida hasta el 06/11/2026.
+
+--- OFERTA B ---
+Proveedor Beta (ficticio) - Cot. BE-2207 (ficticia) - 22/10/2026
+Caño ASTM A283 Gr. C, Ø 914,40 mm, espesor mínimo de pared 7,92 mm (sin tolerancia negativa). Precio USD 425/m + IVA. Total por los 1.200 m: USD 510.000 + IVA.
+Plazo: 35 días corridos desde OC, puesto en playa de acopio. Pago a 30 días fecha factura. Garantía 12 meses.
+Incluye certificado de colada por lote. Validez de la oferta: hasta el 10/11/2026.
+
+--- OFERTA C ---
+Proveedor Gamma (ficticio) - Cot. GA-0388 (ficticia) - 24/10/2026
+ASTM A283 Gr. C, 914,40 mm, espesor mínimo de pared 7,92 mm (sin tolerancia negativa). USD 437 por metro más IVA; total USD 524.400 + IVA para 1.200 m.
+Entrega 48 días corridos desde la OC, en playa de acopio Km 0. Pago a 60 días fecha de factura. Garantía 24 meses.
+Certificado de material del lote (colada) con cada despacho. Validez: 20 días desde la fecha de esta cotización.
