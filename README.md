@@ -20,9 +20,19 @@ Un prompt que convierte a un asistente de IA en analista de compras. Compara **t
 
 También podés abrir [`demo.html`](demo.html) con doble clic (funciona en la compu y en el celular): trae el prompt y los casos con botón de copiar, y un ejemplo de resultado real. Versión en línea: https://rcpizzo08.github.io/agente-analista-de-ofertas/demo.html
 
+## Ejemplos reales en chats compartidos
+Dos corridas reales con el prompt v2.1, hechas en un chat nuevo en una ventana de incógnito. Los enlaces se ven **sin iniciar sesión**:
+- **Caso 1:** https://claude.ai/share/e0096816-1f07-4026-a5f2-9e1f0ba47dd2
+- **Caso 2:** https://claude.ai/share/8ba73540-6169-4e7f-9088-f374917a6bf9
+
+> **Nota:** en los chats compartidos de Claude el prompt no se muestra (queda como adjunto oculto). Por eso el primer mensaje que se ve es la respuesta «Listo. Pegame (A) la compra…». El prompt completo está en [`prompt/prompt_v2.1.txt`](prompt/prompt_v2.1.txt).
+
+Cada corrida se copió, sin modificar, en [`ejemplos/caso1_salida_real.md`](ejemplos/caso1_salida_real.md) y [`ejemplos/caso2_salida_real.md`](ejemplos/caso2_salida_real.md), con los datos del caso y el asistente con que se obtuvo. Es una sola corrida de cada caso: otra puede redactar distinto.
+
 ## Contenido
 | Archivo | Qué es |
 |---|---|
+| `ejemplos/caso1_salida_real.md`, `caso2_salida_real.md` | Datos del caso y salida completa y sin modificar de una corrida real. |
 | `prompt/prompt_v2.1.txt` | El prompt, listo para pegar. |
 | `datos/caso1.txt` | Cañería de acero: la oferta más barata no cumple un requisito excluyente. |
 | `datos/caso2.txt` | Bridas de acero: una oferta no informa la norma exigida. |
